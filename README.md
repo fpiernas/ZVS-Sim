@@ -41,6 +41,10 @@ The program will ask the user to enter these parameters:
 
 -Points saved: use 100e3 and the program will save the last 100k points of data.
 
+**What the program saves**
+
+The program will save the data of the capacitor current (IC.dat), the primary current (IL2.dat), the current from the power source (ISource.dat), the voltage on the capacitor (VC.dat) and the voltage on secondary (Vsec.dat)
+
 **Example of parameters**
 
 L1=0.1
