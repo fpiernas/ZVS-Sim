@@ -21,7 +21,7 @@ The program will ask the user to enter these parameters:
 
 -L1 inductance (this is the inductor next to the power source)
 
--L2 inductance: the inductance of half the primary (Mazzilli drivers usually have a 5+5 priamry, here it's asked the inductance of 5 turns)
+-L2 inductance: the inductance of half the primary (Mazzilli drivers usually have a 5+5 primary, here it's asked the inductance of those 5 turns)
 
 -L4 inductance: the inductance of the secondary
 
